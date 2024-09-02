@@ -1,6 +1,6 @@
 # 🌟 SpecterScan  🕵️‍♂️🔍
 
-![Perl Icon](https://img.shields.io/badge/Perl-%23F5DEB3?style=for-the-badge&logo=perl&logoColor=000000)![Security Icon](https://img.shields.io/badge/Security-%23FF4F4F?style=for-the-badge&logo=security&logoColor=ffffff) ![Terminal Icon](https://img.shields.io/badge/Terminal-%231d1f21?style=for-the-badge&logo=gnome-terminal&logoColor=00bfae) )
+![Perl Icon](https://img.shields.io/badge/Perl-%23F5DEB3?style=for-the-badge&logo=perl&logoColor=000000)![Security Icon](https://img.shields.io/badge/Security-%23FF4F4F?style=for-the-badge&logo=security&logoColor=ffffff) ![Terminal Icon](https://img.shields.io/badge/Terminal-%231d1f21?style=for-the-badge&logo=gnome-terminal&logoColor=00bfae) 
 
 ## 🎯 **Overview**
 
